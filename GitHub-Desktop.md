@@ -9,3 +9,8 @@ Ok, algo más de contenido. Una pequeña lista:
 2. que solo puede tener 1s si uno quiere, 
 3. porque Markdown algo de cerebro tiene.
 
+- esto, por otra parte, 
+- es una lista no ordenada.
+- se hace facilmente con guiones. 
+- Yo la hago desde la interfaz web para aprender a sincronizar los cambios con Desktop. 
+
